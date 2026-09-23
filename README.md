@@ -7,8 +7,8 @@ soy programador jr.
 # Proyecto integrador (Video Juego)
 - proyecto integrado basado en
 
-#1. analisis
-#2. diseño 
-#3. desarrollo/codigo
-#4. presentación en github
+# 1. analisis
+# 2. diseño 
+# 3. desarrollo/codigo
+# 4. presentación en github
 
