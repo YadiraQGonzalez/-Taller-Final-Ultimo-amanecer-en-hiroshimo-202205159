@@ -1,17 +1,16 @@
 # Ultimo-amanecer-en-hiroshima
 Videojuego de consola donde Akira debe encontrar agua, comida y medicinas para sobrevivir en una ciudad devastada por una catástrofe video juego en python.
 
-# Stefani Yadira Quiel Gonzalez 
-soy programador jr. 
 
-# Proyecto integrador (Video Juego)
-- proyecto integrado basado en
+# Fase 1. analisis
+Aqui se describe como ese el jeugo,
+# Fase 2. diseño 
 
-# 1. analisis
-# 2. diseño 
-# 3. desarrollo/codigo
-# 4. presentación en github
-## 4. Presentación en GitHub
+# Fase 3. desarrollo/codigo
+trabajamos el codigo del juego 
+
+# Fase 4. Presentación en GitHub
+Tengo que realizar un repositorio para entregar el codigo del juego.
 El proyecto se encuentra organizado en cuatro fases:
 - Análisis
 - Diseño
