@@ -20,3 +20,6 @@ soy programador jr.
 Desarrollo.py
 
 5. Seleccionar una opción del menú para ayudar a Akira a encontrar recursos.
+
+Codigo - imagen
+<img width="1507" height="710" alt="Screenshot 2026-09-23 190402" src="https://github.com/user-attachments/assets/6758c150-6695-435a-9062-b72ba2ccbb2d" />
