@@ -11,6 +11,14 @@ soy programador jr.
 # 2. diseño 
 # 3. desarrollo/codigo
 # 4. presentación en github
+## 4. Presentación en GitHub
+El proyecto se encuentra organizado en cuatro fases:
+- Análisis
+- Diseño
+- Desarrollo
+- Presentación
+ 
+Incluye el código fuente, documentación, diagrama de flujo y evidencia de ejecución.
 
 # Instrucciones de ejecución
 1. Abrir una terminal o consola.
