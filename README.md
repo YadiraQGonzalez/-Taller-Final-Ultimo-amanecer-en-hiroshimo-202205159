@@ -12,3 +12,12 @@ soy programador jr.
 # 3. desarrollo/codigo
 # 4. presentación en github
 
+# Instrucciones de ejecución
+1. Abrir una terminal o consola.
+2. Ubicarse en la carpeta donde se encuentra el archivo.
+3. Ejecutar:
+
+Desarrollo.py
+ 
+5. Seleccionar una opción del menú para ayudar a Akira a encontrar recursos.
+ 
