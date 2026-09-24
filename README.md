@@ -18,6 +18,6 @@ soy programador jr.
 3. Ejecutar:
 
 Desarrollo.py
- 
+
 5. Seleccionar una opción del menú para ayudar a Akira a encontrar recursos.
  
