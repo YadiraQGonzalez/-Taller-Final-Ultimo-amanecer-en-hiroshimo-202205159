@@ -20,4 +20,7 @@ soy programador jr.
 Desarrollo.py
 
 5. Seleccionar una opción del menú para ayudar a Akira a encontrar recursos.
- 
+
+#Captura
+ 
+<img width="1507" height="710" alt="Captura" src="https://github.com/user-attachments/assets/81ad7928-eae5-43fc-ba3d-b2252e469e47" />
